@@ -119,11 +119,8 @@ After processing a test dataset, the pipeline produces
 
 This repository displays the process. The actual model weights, training construction, encoders, and necessary pieces to the pipeline are not included. Results in the small scale will depend on data availablity and preprocessing consistency. A necessary step for small scale interpretation is including the pitch types associated with a pitcher and a strong base of known pitch types to train on for that pitcher.
 
-This is a research and analytics tool, not an official MLB or Statcast product.
+This is a research and analytics tool, not an official MLB or Statcast product. See LICENSE for details or inquiry.
 
 ---
 
 **Author - Robbie Dudzinski | Sports Analytics and Data Science Consultant | Former Professional Pitcher**
-
-
-
