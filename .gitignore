@@ -1,0 +1,10 @@
+# Ignore trained models
+vX_Models/
+*.pkl
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter autosaves
+.ipynb_checkpoints/
